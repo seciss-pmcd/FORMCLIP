@@ -92,12 +92,12 @@ export default function App() {
           <div className="px-6 py-10 text-center md:px-10">
             <div className="mb-6 flex items-center justify-center gap-6">
               <img
-                src="/FORMCLIP/logos/logo-unam.png"
+                src="/FORMCLIP/logos/logo-facmed.png"
                 alt="Logo UNAM"
                 className="h-16 w-auto object-contain md:h-20"
               />
               <img
-                src="/FORMCLIP/logos/logo-facmed.png"
+                src="/FORMCLIP/logos/logo-SECISS.png"
                 alt="Logo Facultad de Medicina UNAM"
                 className="h-16 w-auto object-contain md:h-20"
               />
